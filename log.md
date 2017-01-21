@@ -3,4 +3,5 @@
 3. [2017/01/17] Half jQuery section at FreeCodeCamp.
 4. [2017/01/18] Setting up terminal with ZSH. Started .dot files.
 5. [2017/01/19] Finished jQuery section at FreeCodeCamp.
-6. [2017/01/20]
+6. [2017/01/20] Started Basic JavaScript section at FreeCodeCamp.
+7. [2017/01/21]
