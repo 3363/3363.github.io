@@ -5,3 +5,4 @@
 5. [2017/01/19] Finished jQuery section at FreeCodeCamp.
 6. [2017/01/20] Started Basic JavaScript section at FreeCodeCamp.
 7. [2017/01/21] Continued JavaScript section at FreeCodeCamp.
+8. [2017/01/22] Continued JavaScript section at FreeCodeCamp.
