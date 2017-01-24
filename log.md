@@ -6,3 +6,4 @@
 6. [2017/01/20] Started Basic JavaScript section at FreeCodeCamp.
 7. [2017/01/21] Continued JavaScript section at FreeCodeCamp.
 8. [2017/01/22] Continued JavaScript section at FreeCodeCamp.
+9. [2017/01/23] Continued JavaScript section at FreeCodeCamp.
