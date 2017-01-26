@@ -8,7 +8,7 @@
 8. [2017/01/22] Continued JavaScript section at FreeCodeCamp.
 9. [2017/01/23] Continued JavaScript section at FreeCodeCamp.
 10. [2017/01/24] Continued JavaScript section at FreeCodeCamp.
-11. [2017/01/25]
+11. [2017/01/25] Continued JavaScript section at FreeCodeCamp.
 12. [2017/01/26]
 13. [2017/01/27]
 14. [2017/01/28]
