@@ -11,7 +11,7 @@
 11. [2017/01/25] Continued JavaScript section at FreeCodeCamp.
 12. [2017/01/26] Finished JavaScript section at FreeCodeCamp.
 13. [2017/01/27] Built Tribute Page.
-14. [2017/01/28] 
+14. [2017/01/28] Built Personal Portfolio Webpage.
 15. [2017/01/29]
 16. [2017/01/30]
 17. [2017/01/31]
