@@ -13,7 +13,7 @@
 13. [2017/01/27] Built Tribute Page.
 14. [2017/01/28] Built Personal Portfolio Webpage.
 15. [2017/01/29] Finished Object Oriented and Functional Programming section at FreeCodeCamp.
-16. [2017/01/30]
+16. [2017/01/30] Started Basic Algorithm Scripting section at FreeCodeCamp.
 17. [2017/01/31]
 18. [2017/02/01]
 19. [2017/02/02]
