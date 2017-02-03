@@ -16,7 +16,7 @@
 16. [2017/01/30] Started Basic Algorithm Scripting section at FreeCodeCamp.
 17. [2017/01/31] Continued Basic Algorithms section at FreeCodeCamp.
 18. [2017/02/01] Continued Basic Algorithms section at FreeCodeCamp.
-19. [2017/02/02]
+19. [2017/02/02] Continued Basic Algorithms section at FreeCodeCamp.
 20. [2017/02/03]
 21. [2017/02/04]
 22. [2017/02/05]
