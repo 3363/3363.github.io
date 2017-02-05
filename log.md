@@ -18,7 +18,7 @@
 18. [2017/02/01] Continued Basic Algorithms section at FreeCodeCamp.
 19. [2017/02/02] Continued Basic Algorithms section at FreeCodeCamp.
 20. [2017/02/03] Continued Basic Algorithms section at FreeCodeCamp.
-21. [2017/02/04]
+21. [2017/02/04] Continued Basic Algorithms section at FreeCodeCamp.
 22. [2017/02/05]
 23. [2017/02/06]
 24. [2017/02/07]
