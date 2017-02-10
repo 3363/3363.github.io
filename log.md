@@ -23,7 +23,7 @@
 23. [2017/02/06] Continued Basic Algorithms section at FreeCodeCamp.
 24. [2017/02/07] Started Udacity's IPND.
 25. [2017/02/08] Continued IPND.
-26. [2017/02/09]
+26. [2017/02/09] Continued IPND.
 27.
 28.
 29.
