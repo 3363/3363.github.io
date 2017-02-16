@@ -29,7 +29,7 @@
 29. [2017/02/12] Continued IPND.
 30. [2017/02/13] Continued IPND.
 31. [2017/02/14] Continued Basic Algorithms section at FreeCodeCamp.
-32. [2017/02/15]
+32. [2017/02/15] Finished Basic Algorithms section at FreeCodeCamp.
 33. [2017/02/16]
 34. [2017/02/17]
 35. [2017/02/18]
