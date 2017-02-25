@@ -38,7 +38,7 @@
 38. [2017/02/21] Started HackerRank.
 39. [2017/02/22] Continued IPND.
 40. [2017/02/23] Continued IPND.
-41. [2017/02/24]
+41. [2017/02/24] Continued IPND. Finished Stage 2 project.
 42. [2017/02/25]
 43. [2017/02/26]
 44. [2017/02/27]
