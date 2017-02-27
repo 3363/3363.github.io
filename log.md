@@ -40,7 +40,7 @@
 40. [2017/02/23] Continued IPND.
 41. [2017/02/24] Continued IPND. Finished Stage 2 project.
 42. [2017/02/25] Continued IPND.
-43. [2017/02/26]
+43. [2017/02/26] Continued IPND.
 44. [2017/02/27]
 45. [2017/02/28]
 46. [2017/03/01]
