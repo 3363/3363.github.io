@@ -45,6 +45,6 @@
 45. [2017/02/28] Continued IPND.
 46. [2017/03/01] Continued IPND.
 47. [2017/03/02] Continued IPND.
-48. [2017/03/03]
+48. [2017/03/03] Finished IPND. Started Practical JavaScript.
 49. [2017/03/04]
 50. [2017/03/05]
