@@ -49,7 +49,7 @@
 49. [2017/03/04] Continued Practical JavaScript.
 50. [2017/03/05] Continued Practical JavaScript.
 51. [2017/03/06] Continued Practical JavaScript.
-52. [2017/03/07]
+52. [2017/03/07] Continued Practical JavaScript.
 53. [2017/03/08]
 54. [2017/03/09]
 55. [2017/03/10]
