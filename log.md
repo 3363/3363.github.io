@@ -52,5 +52,5 @@
 52. [2017/03/07] Continued Practical JavaScript.
 53. [2017/03/08] Continued Practical JavaScript.
 54. [2017/03/09] Continued Practical JavaScript.
-55. [2017/03/10]
+55. [2017/03/10] Finished Practical JavaScript.
 56. [2017/03/11]
