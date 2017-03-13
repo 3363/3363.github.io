@@ -55,7 +55,7 @@
 55. [2017/03/10] Finished Practical JavaScript.
 56. [2017/03/11] Week 1 of Learn to Program: The Fundamentals.
 57. [2017/03/12] Week 2 of Learn to Program: The Fundamentals.
-58. [2017/03/13]
+58. [2017/03/13] Lesson 1 in Practical JavaScript II.
 59. [2017/03/14]
 60. [2017/03/15]
 61. [2017/03/16]
