@@ -56,8 +56,8 @@
 56. [2017/03/11] Week 1 of Learn to Program: The Fundamentals.
 57. [2017/03/12] Week 2 of Learn to Program: The Fundamentals.
 58. [2017/03/13] Lesson 1 in Practical JavaScript II.
-59. [2017/03/14]
-60. [2017/03/15]
+59. [2017/03/14] SQL path on SoloLearn.
+60. [2017/03/15] Read and dissected TodoMVC code for 2.5 hours.
 61. [2017/03/16]
 62. [2017/03/17]
 63. [2017/03/18]
